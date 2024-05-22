@@ -1,6 +1,6 @@
 {
   "name": "@votopia/smart-order-router",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Votopia Smart Order Router",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
@@ -29,7 +29,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@votopia/sdk-core": "^1.1.5",
+    "@votopia/sdk-core": "^1.1.6",
     "async-retry": "^1.3.1",
     "await-timeout": "^1.1.1",
     "axios": "^0.21.1",
