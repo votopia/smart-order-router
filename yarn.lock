@@ -1744,10 +1744,10 @@
     "@uniswap/v3-core" "^1.0.0"
     base64-sol "1.0.1"
 
-"@votopia/sdk-core@^1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@votopia/sdk-core/-/sdk-core-1.1.2.tgz#307754b7074b8b9514672f951d407edcb16904c8"
-  integrity sha512-k7P8+B2+/KQPA28Ct9G3fxWlv63bsSaWIHOciZpQyLq9RLCcCP7badPQUC3K3nwHFFg742HBU/6msik8wZUIGw==
+"@votopia/sdk-core@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@votopia/sdk-core/-/sdk-core-1.1.5.tgz#307344aa8d038077d3a4ae6be6bb7922c1c9d7a0"
+  integrity sha512-KYeWadd/lnImIFxWVVhKX6y9YDC+Oy+yva0AZzU7kdtRnqyAZEe01QCAnSfSTtIWRiGs0M+JLPhCHUAQ7XdRwg==
   dependencies:
     "@ethersproject/abi" "^5.7.0"
     "@ethersproject/address" "^5.0.2"
