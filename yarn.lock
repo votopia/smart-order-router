@@ -1724,8 +1724,8 @@
     base64-sol "1.0.1"
 
 "@votopia/sdk-core@github:votopia/sdk-core#main":
-  version "1.2.7"
-  resolved "https://codeload.github.com/votopia/sdk-core/tar.gz/c93a6636b4f7b9fbd64a92597d64f4c07cad923a"
+  version "1.2.8"
+  resolved "https://codeload.github.com/votopia/sdk-core/tar.gz/a847de1edb4cfec09a4c62ab564b35910cc4557e"
   dependencies:
     "@ethersproject/abi" "^5.7.0"
     "@ethersproject/address" "^5.0.2"
