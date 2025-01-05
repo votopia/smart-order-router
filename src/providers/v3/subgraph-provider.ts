@@ -167,7 +167,7 @@ export class V3SubgraphProvider implements IV3SubgraphProvider {
       },
       {
         retries: this.retries,
-        onRetry: (err, retry) => {
+        onRetry: (err: Error, retry) => {
           if (
             this.rollback &&
             blockNumber &&

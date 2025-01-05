@@ -1,0 +1,11 @@
+import { BigNumber } from "@ethersproject/bignumber";
+import { Currency } from "@votopia/sdk-core";
+export declare const COST_PER_UNINIT_TICK: BigNumber;
+export declare const BASE_SWAP_COST: () => BigNumber;
+export declare const COST_PER_INIT_TICK: () => BigNumber;
+export declare const COST_PER_HOP: () => BigNumber;
+export declare const SINGLE_HOP_OVERHEAD: () => BigNumber;
+export declare const TOKEN_OVERHEAD: () => BigNumber;
+export declare const NATIVE_WRAP_OVERHEAD: () => BigNumber;
+export declare const NATIVE_UNWRAP_OVERHEAD: () => BigNumber;
+export declare const NATIVE_OVERHEAD: (amount: Currency, quote: Currency) => BigNumber;
